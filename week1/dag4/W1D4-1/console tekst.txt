@@ -1,0 +1,12 @@
+document.body.innerHTML'ik ben een nieuwe paragraaf'
+document.getElementByID('first-section')
+const eersteDeel = document.getElementByID('first-section')
+console.log(eersteDeel)
+
+document.getElementsByClassName('paragraph')
+HTMLCollection(2) [div#first-section.paragraph, div#second-section.paragraph, first-section: div#first-section.paragraph, second-section: div#second-section.paragraph]
+const beidePara=document.getElementsByClassName('paragraph')
+undefined
+beidePara
+HTMLCollection(2) [div#first-section.paragraph, div#second-section.paragraph, first-section: div#first-section.paragraph, second-section: div#second-section.paragraph]
+
