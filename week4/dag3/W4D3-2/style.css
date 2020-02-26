@@ -1,0 +1,50 @@
+#winc:hover {
+  color: lightblue;
+  font-weight: bold;
+}
+
+#waarom:active {
+  color: red;
+  font-style: italic;
+}
+
+#opleidingen:visited {
+  color: yellow;
+  text-decoration: line-through;
+}
+
+#naam:focus {
+  color: green;
+  font-size: 20px;
+}
+
+li {
+  display: inline-block;
+}
+
+ul {
+  background: darkblue;
+  color: white;
+  margin-left: 0;
+  padding-left: 0;
+}
+#eerste {
+  padding: 0px 0px 15px 0px;
+}
+#currentPage {
+  padding: 0px 15px;
+  background: grey;
+}
+
+#derde {
+  margin-top: 10px;
+  padding: 10px;
+  display: inline-block;
+}
+#derde:hover {
+  background: lightblue;
+}
+
+#menu:focus {
+  border-color: aqua;
+}
