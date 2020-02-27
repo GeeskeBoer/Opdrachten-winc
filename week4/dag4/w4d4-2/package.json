@@ -1,0 +1,14 @@
+{
+  "name": "w4d4-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add-one.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
